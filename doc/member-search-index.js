@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"cursojava.constantes","c":"StatusAluno","l":"APROVADO"},{"p":"cursojava.constantes","c":"StatusAluno","l":"RECUPERACAO"},{"p":"cursojava.constantes","c":"StatusAluno","l":"REPROVADO"},{"p":"cursojava.constantes","c":"StatusAluno","l":"StatusAluno()","url":"%3Cinit%3E()"}]
